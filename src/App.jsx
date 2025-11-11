@@ -427,7 +427,7 @@ export default function TodoApp() {
       )}
 
       <div className="footer">
-        <p>Made with ❤️ using React</p>
+        <p>Complete your tasks and stay organized! </p>
       </div>
     </div>
   );
